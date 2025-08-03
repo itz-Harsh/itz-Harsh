@@ -67,7 +67,7 @@ I believe in learning by building.
 | [`Jarvis`](https://github.com/itz-Harsh/Jarvis) | Python voice-controlled assistant that listens to your voice and performs tasks. | Python |
 | [`Cleaner`](https://github.com/itz-Harsh/Cleaner) | Windows cleanup tool using automation (temp, prefetch, recycle bin). | Python, PyAutoGUI |
 | [`Musify`](https://github.com/itz-Harsh/Musify) | Music Streaming App using JioSaavn API and ReactJS. | React, JS |
-| `Lumus` (Private) | An advanced AI desktop assistant under development. | Python, Voice AI |
+
 
 ---
 
