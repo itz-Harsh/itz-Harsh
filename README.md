@@ -11,8 +11,7 @@
 ## 🧑‍💻 About Me
 
 Hi! I'm **Harsh Suthar**, a Computer Science student and passionate developer.  
-I love working on **voice-controlled assistants**, **automation tools**, and integrating **music streaming APIs**.  
-Currently focused on building **Lumus**, my AI-powered desktop assistant.  
+ 
 I believe in learning by building.  
 > *"Build, Fail, Learn, Repeat — Until It Works!"*
 
